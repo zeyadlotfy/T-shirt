@@ -15,7 +15,7 @@ import {
 import { FiMenu } from "react-icons/fi";
 import { MdClose } from "react-icons/md";
 import { TbBracketsAngle } from "react-icons/tb";
-import CartIcon from "@/app/(shoppingcart)/components/ui/CartIcon";
+import CartIcon from "@/app/(shoppingCart)/components/ui/cartIcon";
 // import WishlistIcon from "@/app/(wishlist)/components/WishlistIcon";
 
 interface NavbarProps {
